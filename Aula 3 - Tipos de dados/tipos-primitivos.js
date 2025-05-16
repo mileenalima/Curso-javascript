@@ -10,7 +10,7 @@
 
 // BigInt
 
-/*
+
 const nome = "Milena";
 const idade = 24;
 let temCabeloCurto = true;
@@ -41,4 +41,3 @@ console.log("2 anos depois...");
 carro = null;
 console.log("Qual o carro da Milena? ", carro);
 
-*/
